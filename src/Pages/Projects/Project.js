@@ -8,7 +8,7 @@ import Contact from '../Contacts/Contact';
 
 const Project = () => {
     return (
-        <div className='grid gap-5 grid-cols-1 lg:grid-cols-3 m-10'>
+        <div className='grid gap-4 grid-cols-1 lg:grid-cols-3 mt-5'>
             <div className="card w-96 bg-base-100 shadow-xl">
                 <figure className="px-10 pt-10">
                     <img src={img1} alt="" className="rounded-xl" />

@@ -9,9 +9,9 @@ const Home = () => {
         <div className='m-12'>
             <h1 className='text-7xl font-bold'>Hi, <br /> I'm Md. <span className='text-purple-600'>Rhihan</span></h1>
             <p className='text-2xl font-medium mt-4'>A <span className='text-purple-600'>Front-End Web Developer</span> passionate about <br /> creating interactive applications.</p>
-            <div className='flex mt-6'>
+            <div className='grid grid-cols-1 lg:grid-cols-2 mt-6'>
                 <button className="btn btn-circle w-32 bg-purple-600"><a href="Resume.pdf" download>Resume</a></button>
-                <div className='flex mt-2 ml-10'>
+                <div className='grid grid-cols-1 lg:flex  mt-2 '>
                     <a href="https://www.linkedin.com/in/md-rhihan-0b350120b/" target="_blank" rel="noopener noreferrer"><FaLinkedin className='w-20 h-10 text-purple-600'></FaLinkedin></a>
                     <a href="https://github.com/rhnchowdhury" target="_blank" rel="noopener noreferrer"><GoMarkGithub className='w-20 h-10 text-purple-600'></GoMarkGithub></a>
                     <a href="https://twitter.com/RaiHaNC19029735" target="_blank" rel="noopener noreferrer"><FaTwitter className='w-20 h-10 text-purple-600'></FaTwitter></a>
@@ -19,7 +19,7 @@ const Home = () => {
             </div>
             <h1 className='mt-16 text-3xl font-semibold text-purple-600'>SKILLS</h1>
             <div className='mt-12 lg:ml-12 lg:shadow-2xl rounded-3xl p-6'>
-                <ul className='grid grid-cols-3 lg:grid-cols-5 gap-6 m-12'>
+                <ul className='grid grid-cols-2 gap-12 lg:grid-cols-5 lg:gap-5 m-12'>
                     <li className='lg:shadow-2xl lg:p-5 lg:m-10 lg:rounded-2xl'>
                         <img src="https://alexcalia.com/assets/skills/html.svg" alt="" />
                         <p className='ml-2'>HTML</p>

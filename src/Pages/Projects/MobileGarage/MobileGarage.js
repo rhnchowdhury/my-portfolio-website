@@ -13,7 +13,7 @@ const MobileGarage = () => {
                         <img src={img2} alt='' className="max-w-sm rounded-lg shadow-2xl my-6" />
                         <img src={img3} alt='' className="max-w-sm rounded-lg shadow-2xl" />
                     </div>
-                    <div className='ml-8 lg:ml-16 lg:mb-auto'>
+                    <div className=' lg:ml-16 lg:mb-auto'>
                         <h1 className="text-5xl font-bold">Mobile Garage</h1>
                         <p className="py-6">Mobile Garage is a responsive website for any kind of Mobile services. Built with the latest HTML5 and CSS3 standards. You can buy and sell used phone by this website. You also can swap the phones.</p>
                         <h3 className="text-3xl font-bold">Features:</h3>

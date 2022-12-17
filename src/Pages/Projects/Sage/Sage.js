@@ -13,7 +13,7 @@ const Sage = () => {
                         <img src={img2} alt='' className="max-w-sm rounded-lg shadow-2xl my-5" />
                         <img src={img3} alt='' className="max-w-sm rounded-lg shadow-2xl" />
                     </div>
-                    <div className='ml-8 lg:ml-16 lg:mb-auto'>
+                    <div className=' lg:ml-16 lg:mb-auto'>
                         <h1 className="text-5xl font-bold">Programming Sage</h1>
                         <p className="py-6">Programming Sage is a computer programming language with features covering many aspects of languages, including C, Java, Python, JavaScript, PHP, Kotlin and Swift. <br /> <br /> This website is design for learning programming language courses. If you want to learn about programming you can enroll this site. This tutorial is one of many sources of information for learning about how to use programming. <br /> <br /> Since this is a tutorial introduction to Sage, we will be using examples to demonstrate ideas and the reader is encouraged to follow along as we progress by entering the commands into their own copy of Sage. We have tried to include exercises for practice and problems for more extensive exploration of a given topic. The reader is also encouraged to do many of these. </p>
                         <h3 className="text-3xl font-bold">Features:</h3>
