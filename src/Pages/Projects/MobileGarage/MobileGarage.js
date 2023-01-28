@@ -27,7 +27,7 @@ const MobileGarage = () => {
                             <li>7. Review can be edited and deleted</li>
                         </ul>
                         <p className='mt-4 mb-4'>Live Link: <a href="https://firts-firebase-proect.web.app/" target="_blank" rel="noopener noreferrer" className='text-orange-600'>https://firts-firebase-proect.web.app/</a></p>
-                        <p>GitHub Code Link: <a href="https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-rhnchowdhury" target="_blank" rel="noopener noreferrer" className='text-orange-600'>https://github.com/rhnchowdhury/Mobile-garage</a></p>
+                        <p>GitHub Code Link: <a href="https://github.com/rhnchowdhury/Mobile-Garage-client" target="_blank" rel="noopener noreferrer" className='text-orange-600'>https://github.com/rhnchowdhury/Mobile-garage</a></p>
                     </div>
                 </div>
             </div>

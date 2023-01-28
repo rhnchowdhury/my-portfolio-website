@@ -25,7 +25,7 @@ const DailyLife = () => {
                             <li>5. Can see one's activity time and calculate.</li>
                         </ul>
                         <p className='mt-4 mb-4'>Live Link: <a href="https://daily-life-activities.netlify.app/" target="_blank" rel="noopener noreferrer" className='text-amber-700'>https://daily-life-activities.netlify.app/</a></p>
-                        <p>GitHub Code Link: <a href="https://github.com/Programming-Hero-Web-Course4/b6-ultra-active-club-rhnchowdhury" target="_blank" rel="noopener noreferrer" className='text-amber-700'>https://github.com/rhnchowdhury/Simple-Life</a></p>
+                        <p>GitHub Code Link: <a href="https://github.com/rhnchowdhury/Daily-Life-Activities" target="_blank" rel="noopener noreferrer" className='text-amber-700'>https://github.com/rhnchowdhury/Simple-Life</a></p>
                     </div>
                 </div>
             </div>

@@ -27,7 +27,7 @@ const Sage = () => {
                             <li>7. It also has Add course section, you can add your course.</li>
                         </ul>
                         <p className='mt-4 mb-4'>Live Link: <a href="https://programming-sage-fbf73.web.app/" target="_blank" rel="noopener noreferrer" className='text-rose-600'>https://programming-sage-fbf73.web.app/</a></p>
-                        <p>GitHub Code Link: <a href="https://github.com/Porgramming-Hero-web-course/b6a11-service-review-client-side-rhnchowdhury" target="_blank" rel="noopener noreferrer" className='text-rose-600'>https://github.com/rhnchowdhury/Programming-Sage</a></p>
+                        <p>GitHub Code Link: <a href="https://github.com/rhnchowdhury/Programming-Sage-client" target="_blank" rel="noopener noreferrer" className='text-rose-600'>https://github.com/rhnchowdhury/Programming-Sage</a></p>
                     </div>
                 </div>
             </div>
