@@ -1,16 +1,16 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import img1 from "../../assets/projects/img1.png";
-import img2 from "../../assets/projects/img2.png";
-import img3 from "../../assets/projects/img3.png";
-import img4 from "../../assets/projects/img4.png";
-import img5 from "../../assets/projects/img5.png";
+import img1 from "../../assets/projects/img1.jpg";
+import img2 from "../../assets/projects/img2.jpg";
+import img3 from "../../assets/projects/img3.jpg";
+import img4 from "../../assets/projects/img4.jpg";
+import img5 from "../../assets/projects/img5.jpg";
 import img6 from "../../assets/projects/img6.png";
-import img7 from "../../assets/projects/img7.png";
+import img7 from "../../assets/projects/img7.jpg";
 import img8 from "../../assets/projects/img8.png";
-import img9 from "../../assets/projects/img9.png";
+import img9 from "../../assets/projects/img9.jpg";
 import img10 from "../../assets/projects/img10.png";
-import img11 from "../../assets/projects/img11.png";
+import img11 from "../../assets/projects/img11.jpg";
 
 import Contact from "../Contacts/Contact";
 
