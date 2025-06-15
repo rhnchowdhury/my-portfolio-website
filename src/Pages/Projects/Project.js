@@ -47,7 +47,7 @@ const Project = () => {
           </p>
           <div className="card-actions">
             <button className="btn btn-primary">
-              <Link to="/garage">Details</Link>
+              <Link to="/rcc">Details</Link>
             </button>
           </div>
         </div>
@@ -64,7 +64,7 @@ const Project = () => {
           </p>
           <div className="card-actions">
             <button className="btn btn-primary">
-              <Link to="/garage">Details</Link>
+              <Link to="/idea">Details</Link>
             </button>
           </div>
         </div>

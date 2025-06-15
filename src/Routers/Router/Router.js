@@ -9,6 +9,8 @@ import MobileGarage from "../../Pages/Projects/MobileGarage/MobileGarage";
 import Project from "../../Pages/Projects/Project";
 import Sage from "../../Pages/Projects/Sage/Sage";
 import Khukumoni from "../../Pages/Projects/khukumoni/Khukumoni";
+import RainCloud from "../../Pages/Projects/RCC/RainCloud";
+import Idea from "../../Pages/Projects/IdeaGrp/Idea";
 
 export const router = createBrowserRouter([
   {
@@ -30,6 +32,14 @@ export const router = createBrowserRouter([
       {
         path: "/khuku",
         element: <Khukumoni></Khukumoni>,
+      },
+      {
+        path: "/rcc",
+        element: <RainCloud></RainCloud>,
+      },
+      {
+        path: "/idea",
+        element: <Idea></Idea>,
       },
       {
         path: "/garage",
