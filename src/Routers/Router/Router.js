@@ -8,44 +8,49 @@ import DailyLife from "../../Pages/Projects/DailyLife/DailyLife";
 import MobileGarage from "../../Pages/Projects/MobileGarage/MobileGarage";
 import Project from "../../Pages/Projects/Project";
 import Sage from "../../Pages/Projects/Sage/Sage";
+import Khukumoni from "../../Pages/Projects/khukumoni/Khukumoni";
 
 export const router = createBrowserRouter([
-    {
-        path: '/',
-        element: <Main></Main>,
-        children: [
-            {
-                path: '/',
-                element: <Home></Home>
-            },
-            {
-                path: '/about',
-                element: <About></About>
-            },
-            {
-                path: '/projects',
-                element: <Project></Project>
-            },
-            {
-                path: '/garage',
-                element: <MobileGarage></MobileGarage>
-            },
-            {
-                path: '/sage',
-                element: <Sage></Sage>
-            },
-            {
-                path: '/life',
-                element: <DailyLife></DailyLife>
-            },
-            {
-                path: '/code',
-                element: <CodeHs></CodeHs>
-            },
-            {
-                path: '/blog',
-                element: <Blog></Blog>
-            }
-        ]
-    }
+  {
+    path: "/",
+    element: <Main></Main>,
+    children: [
+      {
+        path: "/",
+        element: <Home></Home>,
+      },
+      {
+        path: "/about",
+        element: <About></About>,
+      },
+      {
+        path: "/projects",
+        element: <Project></Project>,
+      },
+      {
+        path: "/khuku",
+        element: <Khukumoni></Khukumoni>,
+      },
+      {
+        path: "/garage",
+        element: <MobileGarage></MobileGarage>,
+      },
+      {
+        path: "/sage",
+        element: <Sage></Sage>,
+      },
+      {
+        path: "/life",
+        element: <DailyLife></DailyLife>,
+      },
+      {
+        path: "/code",
+        element: <CodeHs></CodeHs>,
+      },
+      {
+        path: "/blog",
+        element: <Blog></Blog>,
+      },
+    ],
+  },
 ]);
