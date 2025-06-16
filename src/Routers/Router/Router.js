@@ -11,6 +11,7 @@ import Sage from "../../Pages/Projects/Sage/Sage";
 import Khukumoni from "../../Pages/Projects/khukumoni/Khukumoni";
 import RainCloud from "../../Pages/Projects/RCC/RainCloud";
 import Idea from "../../Pages/Projects/IdeaGrp/Idea";
+import Pets from "../../Pages/Projects/Pets/Pets";
 
 export const router = createBrowserRouter([
   {
@@ -40,6 +41,10 @@ export const router = createBrowserRouter([
       {
         path: "/idea",
         element: <Idea></Idea>,
+      },
+      {
+        path: "/pets",
+        element: <Pets></Pets>,
       },
       {
         path: "/garage",
