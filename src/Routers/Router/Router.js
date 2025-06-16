@@ -14,6 +14,7 @@ import Idea from "../../Pages/Projects/IdeaGrp/Idea";
 import Pets from "../../Pages/Projects/Pets/Pets";
 import Gym from "../../Pages/Projects/Gym/Gym";
 import Travel from "../../Pages/Projects/Travel/Travel";
+import Todo from "../../Pages/Projects/Todo/Todo";
 
 export const router = createBrowserRouter([
   {
@@ -55,6 +56,10 @@ export const router = createBrowserRouter([
       {
         path: "/travel",
         element: <Travel></Travel>,
+      },
+      {
+        path: "/todo",
+        element: <Todo></Todo>,
       },
       {
         path: "/garage",
