@@ -60,7 +60,7 @@ const Gym = () => {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-orange-600">
-                https://github.com/rhnchowdhury/Online-fitness-trainer-client
+                https://github.com/rhnchowdhury/Online-fitness-trainer
               </a>
             </p>
           </div>

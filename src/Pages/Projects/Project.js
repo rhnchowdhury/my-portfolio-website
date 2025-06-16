@@ -135,7 +135,7 @@ const Project = () => {
           </p>
           <div className="card-actions">
             <button className="btn btn-primary">
-              <Link to="/sage">Details</Link>
+              <Link to="/travel">Details</Link>
             </button>
           </div>
         </div>
@@ -170,7 +170,7 @@ const Project = () => {
           </p>
           <div className="card-actions">
             <button className="btn btn-primary">
-              <Link to="/code">Details</Link>
+              <Link to="/sage">Details</Link>
             </button>
           </div>
         </div>
@@ -187,7 +187,7 @@ const Project = () => {
           </p>
           <div className="card-actions">
             <button className="btn btn-primary">
-              <Link to="/code">Details</Link>
+              <Link to="/life">Details</Link>
             </button>
           </div>
         </div>

@@ -13,6 +13,7 @@ import RainCloud from "../../Pages/Projects/RCC/RainCloud";
 import Idea from "../../Pages/Projects/IdeaGrp/Idea";
 import Pets from "../../Pages/Projects/Pets/Pets";
 import Gym from "../../Pages/Projects/Gym/Gym";
+import Travel from "../../Pages/Projects/Travel/Travel";
 
 export const router = createBrowserRouter([
   {
@@ -50,6 +51,10 @@ export const router = createBrowserRouter([
       {
         path: "/gym",
         element: <Gym></Gym>,
+      },
+      {
+        path: "/travel",
+        element: <Travel></Travel>,
       },
       {
         path: "/garage",
