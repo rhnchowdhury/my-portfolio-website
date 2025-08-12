@@ -1,7 +1,6 @@
 import React from "react";
 import Contact from "../Contacts/Contact";
-import { FaLinkedin, FaTwitter } from "react-icons/fa";
-import { GoMarkGithub } from "react-icons/go";
+import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 const Home = () => {
   return (
@@ -30,7 +29,7 @@ const Home = () => {
             href="https://github.com/rhnchowdhury"
             target="_blank"
             rel="noopener noreferrer">
-            <GoMarkGithub className="w-20 h-10 text-purple-600"></GoMarkGithub>
+            <FaGithub className="w-20 h-10 text-purple-600" />
           </a>
           <a
             href="https://twitter.com/RaiHaNC19029735"
